@@ -1,0 +1,6 @@
+# Project exclude paths
+/executor/.gradle/
+/executor/build/
+/executor/build/classes/java/main/
+/payment-service/.gradle/
+/payment-service/build/
